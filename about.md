@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi everybody! *read it with Dr. Nick voice*
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Juan Gómez and I'm a web developer. There is not much else to say, I started since 2012, but professionally 
+since 2014. I code in c#, ruby, php, javascript and kotlin on a regular basis, but I like to solve problems in 
+diferent forms and I love to develop multiplatform solutions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Without anything else to sa, wellcome to this mess of mind, I hope you learn something!
