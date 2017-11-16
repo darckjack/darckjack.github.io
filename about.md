@@ -10,4 +10,4 @@ My name is Juan Gómez and I'm a web developer. There is not much else to say, I
 since 2014. I code in c#, ruby, php, javascript and kotlin on a regular basis, but I like to solve problems in 
 diferent forms and I love to develop multiplatform solutions.
 
-Without anything else to sa, wellcome to this mess of mind, I hope you learn something!
+Without anything else to say, wellcome to this mess of mind, I hope you learn something!
