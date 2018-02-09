@@ -5,4 +5,4 @@ permalink: portfolio.html
 
 ---
 
-[Logo](https://i.imgur.com/7MfdXso.png)
+![Logo](https://i.imgur.com/7MfdXso.png)
