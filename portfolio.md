@@ -31,15 +31,22 @@ Pickup & Go (To be released)
 
 I worked in this proyect for the last year and 3 months, it was divided in 3:
 
-*Restaurant management desktop software
+ *Restaurant management desktop software
 
-···One desktop program for the management of the clients restaurant including a POS and kitchen control. All in C# with wpf and sql server.···
+   One desktop program for the management of the clients restaurant including a POS and kitchen control. 
+   All in C# with wpf and sql server.
 
-*Mobile app for clients of the restaurant
+ *Mobile app for clients of the restaurant
 
-···One mobile app for android and ios for the clients of the restaurants to make orders for delivery or consumption in place. Worked in nativescript.···
+   One mobile app for android and ios for the clients of the restaurants to make orders for delivery or 
+   consumption in place. Worked in nativescript.
 
-*Server for comunication between the software and the app.
+ *Server for comunication between the software and the app.
 
-···One server for comunication between the software and the app, getting all the info about products and prices of all the places and serving it to the app for the users. Also works as mediator for payments in the app. worked in asp.net···
+   One server for comunication between the software and the app, getting all the info about products and 
+   prices of all the places and serving it to the app for the users. 
+   
+   Also works as mediator for payments in the app. 
+
+   Worked in asp.net
 
